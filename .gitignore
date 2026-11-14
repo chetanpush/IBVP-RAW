@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+
+# Local surveillance data and generated records
+evidence/
+known_faces/
+unknown_faces/
+plates/
+reports/
+samples/
+snapshots/
+ibvap.db
+*.sqlite
+*.sqlite3
+known_faces.pkl
+unknown_faces.pkl
+plates.csv
+zone.json
+
+# Local editor settings
+.vscode/
